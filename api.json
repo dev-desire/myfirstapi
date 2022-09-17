@@ -1,20 +1,20 @@
 [
 {
 "userId": 1,
-"id":"1"
-"username" "Viraj123",
+"id":"1",
+"username":"Viraj123",
 "userprofilepicture": "https://images.dog.ceo//breeds//bulldog-french//n02108915_3346.jpg",
-"userpost" "https://api2.binance.com/api/v3/ticker/24hr",
+"userpost":"https://api2.binance.com/api/v3/ticker/24hr",
 "userpostdescription" : "Hey there is y post description"
 },
 
 
 {
 "userId": 2,
-"id":"2"
-"username" "Dev123",
+"id":"2",
+"username": "Dev123",
 "userprofilepicture": "https://images.dog.ceo//breeds//bulldog-french//n02108915_3346.jpg",
-"userpost" "https://api2.binance.com/api/v3/ticker/24hr",
+"userpost": "https://api2.binance.com/api/v3/ticker/24hr",
 "userpostdescription" : "Hey there is y post description"
 }
 
